@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/"
+xmlns:sioc="http://rdfs.org/sioc/spec/"
+xmlns:myNameSpace="http://www.example.com/myprimerrdf#"
+xml:base="http://www.example.com/myprimerrdf"
+xmlsn:="http://www.example.com/myprimerrdf#">
+
+	<rdfs:Class rdf:about="http://www.example.com/myprimerrdf#Tweet"/>
+	<rdfs:Class rdf:about="http://www.example.com/myprimerrdf#User"/>
+
+	<sioc:Property rdf:about="content">
+		<rdfs:domain rdf:resource="#Tweet"/>
+	</sioc:Property>   
+	<sioc:Property rdf:about="has_creator">
+		<rdfs:domain rdf:resource="#Tweet"/>
+		<rdfs:range rdf:resources="#User"/>
+	</rdfs:Property>
+	<rdfs:Property rdf:about="http://www.example.com/myprimerrdf#userAccount">
+		<rdfs:domain rdf:resource="#User"/>
+	</rdfs:Property>
+
+	<Tweet rdf:about="#tweet111">
+		<creator rdf:resource="#user211"/>
+		<content rdf:resource="Un tweet"/>
+	</Tweet>
+	<User rdf:about="#user201">
+		<userAccount rdf:resource="@pepe"/>
+	</User>
+</rdf:RDF>
