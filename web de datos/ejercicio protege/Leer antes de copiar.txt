@@ -1,0 +1,2 @@
+antes de utilizar el fichero OWL, tened en cuenta que en la Onthology IRI debe aparecer vuestro usuario (y no el mio que está en el OWL)
+Los pantallazos muestran los elementos que hay en cada pantalla que he usado, por si lo quereis comparar con lo que teneis hecho.

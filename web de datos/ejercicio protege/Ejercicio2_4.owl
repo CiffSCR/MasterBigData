@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY untitled-ontology-4 "http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:untitled-ontology-4="http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <Ontology rdf:about="http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#Creador -->
+
+    <ObjectProperty rdf:about="&untitled-ontology-4;Creador">
+        <rdfs:domain rdf:resource="&untitled-ontology-4;Post"/>
+        <rdfs:range rdf:resource="&untitled-ontology-4;Usuario"/>
+    </ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#Followers -->
+
+    <ObjectProperty rdf:about="&untitled-ontology-4;Followers">
+        <rdfs:domain rdf:resource="&untitled-ontology-4;UsuarioTwitter"/>
+        <rdfs:range rdf:resource="&untitled-ontology-4;UsuarioTwitter"/>
+    </ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#Friends -->
+
+    <ObjectProperty rdf:about="&untitled-ontology-4;Friends">
+        <rdfs:range rdf:resource="&untitled-ontology-4;UsuarioFacebook"/>
+        <rdfs:domain rdf:resource="&untitled-ontology-4;UsuarioFacebook"/>
+    </ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#Contenido -->
+
+    <DatatypeProperty rdf:about="&untitled-ontology-4;Contenido">
+        <rdfs:domain rdf:resource="&untitled-ontology-4;Post"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#FechaCreacion -->
+
+    <DatatypeProperty rdf:about="&untitled-ontology-4;FechaCreacion">
+        <rdfs:domain rdf:resource="&untitled-ontology-4;Post"/>
+        <rdfs:range rdf:resource="&xsd;dateTime"/>
+    </DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#Likes -->
+
+    <DatatypeProperty rdf:about="&untitled-ontology-4;Likes">
+        <rdfs:domain rdf:resource="&untitled-ontology-4;Post"/>
+        <rdfs:range rdf:resource="&xsd;integer"/>
+    </DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#Retweets -->
+
+    <DatatypeProperty rdf:about="&untitled-ontology-4;Retweets">
+        <rdfs:domain rdf:resource="&untitled-ontology-4;Tweet"/>
+        <rdfs:range rdf:resource="&xsd;integer"/>
+    </DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#UserAccount -->
+
+    <DatatypeProperty rdf:about="&untitled-ontology-4;UserAccount">
+        <rdfs:domain rdf:resource="&untitled-ontology-4;Usuario"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#Post -->
+
+    <Class rdf:about="&untitled-ontology-4;Post"/>
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#Publicacion -->
+
+    <Class rdf:about="&untitled-ontology-4;Publicacion">
+        <rdfs:subClassOf rdf:resource="&untitled-ontology-4;Post"/>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#Tweet -->
+
+    <Class rdf:about="&untitled-ontology-4;Tweet">
+        <rdfs:subClassOf rdf:resource="&untitled-ontology-4;Post"/>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#Usuario -->
+
+    <Class rdf:about="&untitled-ontology-4;Usuario"/>
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#UsuarioFacebook -->
+
+    <Class rdf:about="&untitled-ontology-4;UsuarioFacebook">
+        <rdfs:subClassOf rdf:resource="&untitled-ontology-4;Usuario"/>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#UsuarioTwitter -->
+
+    <Class rdf:about="&untitled-ontology-4;UsuarioTwitter">
+        <rdfs:subClassOf rdf:resource="&untitled-ontology-4;Usuario"/>
+    </Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#fb101 -->
+
+    <NamedIndividual rdf:about="&untitled-ontology-4;fb101">
+        <rdf:type rdf:resource="&untitled-ontology-4;Publicacion"/>
+        <untitled-ontology-4:Contenido>Un post sobre Joaquin Sabina</untitled-ontology-4:Contenido>
+        <untitled-ontology-4:Likes>123</untitled-ontology-4:Likes>
+        <untitled-ontology-4:FechaCreacion>2015-02-12T23:34:45</untitled-ontology-4:FechaCreacion>
+        <untitled-ontology-4:Creador rdf:resource="&untitled-ontology-4;user201"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#tweet111 -->
+
+    <NamedIndividual rdf:about="&untitled-ontology-4;tweet111">
+        <rdf:type rdf:resource="&untitled-ontology-4;Tweet"/>
+        <untitled-ontology-4:Contenido>Un tweet de Joaquin Sabina</untitled-ontology-4:Contenido>
+        <untitled-ontology-4:FechaCreacion>2015-03-12T23:34:45</untitled-ontology-4:FechaCreacion>
+        <untitled-ontology-4:Creador rdf:resource="&untitled-ontology-4;user211"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#user201 -->
+
+    <NamedIndividual rdf:about="&untitled-ontology-4;user201">
+        <rdf:type rdf:resource="&untitled-ontology-4;UsuarioFacebook"/>
+        <untitled-ontology-4:UserAccount>er_Antonio</untitled-ontology-4:UserAccount>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#user202 -->
+
+    <NamedIndividual rdf:about="&untitled-ontology-4;user202">
+        <rdf:type rdf:resource="&untitled-ontology-4;UsuarioFacebook"/>
+        <untitled-ontology-4:UserAccount>pecosa</untitled-ontology-4:UserAccount>
+        <untitled-ontology-4:Friends rdf:resource="&untitled-ontology-4;user201"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4#user211 -->
+
+    <NamedIndividual rdf:about="&untitled-ontology-4;user211">
+        <rdf:type rdf:resource="&untitled-ontology-4;UsuarioTwitter"/>
+        <untitled-ontology-4:UserAccount xml:lang="pepe"></untitled-ontology-4:UserAccount>
+    </NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+

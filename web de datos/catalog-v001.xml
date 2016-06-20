@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1466365457024" name="duplicate:http://www.example.com/myprimerrdf" uri="Ejercicio1_2.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1466365457024" name="duplicate:http://www.example.com/myprimerrdf" uri="Ejercicio2_1.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1466365457024" name="duplicate:http://www.example.com/myprimerrdf" uri="Ejercicio2_1_modif.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1466365457024" name="duplicate:http://www.example.com/myprimerrdf" uri="Ejercicio2_3.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1466365457024" name="http://www.semanticweb.org/juan/ontologies/2016/5/untitled-ontology-14" uri="Ejercicio2_5.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1466365457024" name="http://www.semanticweb.org/sergio.castro/ontologies/2016/5/untitled-ontology-4" uri="Ejercicio2_4.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1466365457024" name="http://www.w3.org/2002/07/owl" uri="ejercicio%20protege/Ejercicio2_4.owl"/>
+    </group>
+</catalog>
