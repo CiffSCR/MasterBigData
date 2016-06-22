@@ -1,0 +1,187 @@
+_:_ca41e0ae-f94c-4ece-94e6-56c108115970 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_bcb7deb2-70ed-4085-bc54-029d18f9820c <http://schema.org/name> "Rainin' In Paradize"@en-gb .
+_:_bcb7deb2-70ed-4085-bc54-029d18f9820c <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_bcb7deb2-70ed-4085-bc54-029d18f9820c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_bcb7deb2-70ed-4085-bc54-029d18f9820c <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=nnbmhv> .
+_:_bcb7deb2-70ed-4085-bc54-029d18f9820c <http://schema.org/byArtist> "Manu Chao"@en-gb .
+_:_ce2460cb-8a62-4f89-ab5b-5ed4547181c0 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_fd06e09d-205a-4daa-946a-f69ad88dbc98 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_8d4810ec-4fba-4b46-9502-bf599a0ebaac <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#menubar> .
+_:_829c5d75-73ac-42ec-a7b6-2d97b05b89e0 <http://schema.org/name> "La Valse A Sale Temps"@en-gb .
+_:_829c5d75-73ac-42ec-a7b6-2d97b05b89e0 <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_829c5d75-73ac-42ec-a7b6-2d97b05b89e0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_829c5d75-73ac-42ec-a7b6-2d97b05b89e0 <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=nzjjmj> .
+_:_829c5d75-73ac-42ec-a7b6-2d97b05b89e0 <http://schema.org/byArtist> "Manu Chao"@en-gb .
+_:_c1e0701a-b444-460e-bd59-e71d9df99366 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_0d28c423-33b0-4d1d-9e42-e194c8e4e3a1 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_58bef9f8-d1bd-4164-9476-7d0c9f4ae7d8 <http://schema.org/name> "Helno Est Mort"@en-gb .
+_:_58bef9f8-d1bd-4164-9476-7d0c9f4ae7d8 <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_58bef9f8-d1bd-4164-9476-7d0c9f4ae7d8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_58bef9f8-d1bd-4164-9476-7d0c9f4ae7d8 <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=n2xf25> .
+_:_58bef9f8-d1bd-4164-9476-7d0c9f4ae7d8 <http://schema.org/byArtist> "Manu Chao"@en-gb .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284#mn-panel-more> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#navigation> .
+_:_47be7fc4-cf66-462e-b932-aeefcbef9d2c <http://schema.org/name> "Bongo Bong"@en-gb .
+_:_47be7fc4-cf66-462e-b932-aeefcbef9d2c <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_47be7fc4-cf66-462e-b932-aeefcbef9d2c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_47be7fc4-cf66-462e-b932-aeefcbef9d2c <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=nz993w> .
+_:_47be7fc4-cf66-462e-b932-aeefcbef9d2c <http://schema.org/byArtist> "Manu Chao"@en-gb .
+_:_f0920806-616e-43b7-83af-c5b51b74c2bd <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_c33be4ca-5d0b-4eab-9421-e9598250268b <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_72a19a65-eb5c-4e81-904e-bec916e7cf8f <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_2d8d2626-c75a-4828-b289-8d6bbd5361a9 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#menubar> .
+_:_bfe83537-8b74-4c6d-bbc0-96a61f1159f8 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_4ef2bfcc-9921-4ef6-b7e5-61f6bb482953 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_cb7a8ef6-d759-4510-9764-9ca6052fe8b3 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#menuitem> .
+_:_e5a32072-1a14-4f0c-836c-61e3e7caeb18 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_9408de4a-f150-4901-b22f-09ec0326ce86 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284> <http://www.w3.org/ns/rdfa#usesVocabulary> <http://schema.org/> .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284> <http://ogp.me/ns#type> "website"@en-gb .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284> <http://ogp.me/ns#image> "http://ichef.bbci.co.uk/images/ic/960x540/p01bqh8f.jpg"@en-gb .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284> <http://ogp.me/ns#title> "Manu Chao - New Songs, Playlists, Videos & Tours - BBC Music"@en-gb .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284> <http://ogp.me/ns#site_name> "BBC"@en-gb .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284> <fb:admins> "100004154058350"@en-gb .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284> <http://ogp.me/ns#url> "http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284"@en-gb .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284> <http://ogp.me/ns#description> "The BBC artist page for Manu Chao. Find the best clips, watch programmes, catch up on the news, and read the latest Manu Chao interviews."@en-gb .
+_:_865428d1-494d-4868-9090-9e63f48e0deb <http://schema.org/name> "L'Hiver Est La"@en-gb .
+_:_865428d1-494d-4868-9090-9e63f48e0deb <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_865428d1-494d-4868-9090-9e63f48e0deb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_865428d1-494d-4868-9090-9e63f48e0deb <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=nnvwjq> .
+_:_865428d1-494d-4868-9090-9e63f48e0deb <http://schema.org/byArtist> "Manu Chao"@en-gb .
+_:_c950b63a-c731-4667-a5ef-a000d12ebb33 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284#orb-search-form> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#search> .
+_:_d9c9a86c-49d7-4b92-a4f2-f641c9274b98 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_e9ac5e43-e567-4a64-9363-585f64d8f090 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284#skip-to-content> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#main> .
+_:_d6a90b86-29e8-45a4-bcc9-4c6824febce0 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_38757560-efb1-4cf4-83aa-6539e9cddebf <http://schema.org/name> "Tristeza Maleza"@en-gb .
+_:_38757560-efb1-4cf4-83aa-6539e9cddebf <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_38757560-efb1-4cf4-83aa-6539e9cddebf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_38757560-efb1-4cf4-83aa-6539e9cddebf <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=n38cnh> .
+_:_38757560-efb1-4cf4-83aa-6539e9cddebf <http://schema.org/byArtist> "Manu Chao"@en-gb .
+_:_03f01dec-1152-42e4-b34b-c68cbddb2205 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_2aaf920d-3bad-47af-adc4-17fa7df86b83 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_0cd1582f-dc60-475e-bc4a-8bf069faec09 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_839dd6d4-b3e0-43d5-802f-5eadd8308440 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#complementary> .
+_:_f4b88012-64ee-41c4-8485-c90d1d5a0455 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#navigation> .
+_:_e98c6a08-f112-42e9-9adb-ec533e3fc445 <http://schema.org/name> "Me Gustas Tu"@en-gb .
+_:_e98c6a08-f112-42e9-9adb-ec533e3fc445 <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_e98c6a08-f112-42e9-9adb-ec533e3fc445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_e98c6a08-f112-42e9-9adb-ec533e3fc445 <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=nnnhd4> .
+_:_e98c6a08-f112-42e9-9adb-ec533e3fc445 <http://schema.org/byArtist> "Manu Chao"@en-gb .
+_:_ce9c255d-8df9-4dd1-a98b-329ebc2a9687 <http://schema.org/name> "Les Rues De L'Hiver"@en-gb .
+_:_ce9c255d-8df9-4dd1-a98b-329ebc2a9687 <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_ce9c255d-8df9-4dd1-a98b-329ebc2a9687 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_ce9c255d-8df9-4dd1-a98b-329ebc2a9687 <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=nzjgjv> .
+_:_ce9c255d-8df9-4dd1-a98b-329ebc2a9687 <http://schema.org/byArtist> "Manu Chao"@en-gb .
+_:_91222e78-5e28-493f-a849-11d52e96e71d <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_990d5f25-1267-4e3a-ae15-9ce4e9e6dd9c <http://schema.org/name> "La Vida Tombola"@en-gb .
+_:_990d5f25-1267-4e3a-ae15-9ce4e9e6dd9c <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_990d5f25-1267-4e3a-ae15-9ce4e9e6dd9c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_990d5f25-1267-4e3a-ae15-9ce4e9e6dd9c <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=n22j2m> .
+_:_990d5f25-1267-4e3a-ae15-9ce4e9e6dd9c <http://schema.org/byArtist> "Manu Chao"@en-gb .
+_:_154a5556-1247-4843-8e42-e4d7cd3e468d <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#menubar> .
+_:_2739103b-7a94-4e7a-ad20-a7cfb2af2b04 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_34727d72-5782-4e4f-b42a-3a63c0aefc57 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#menuitem> .
+_:_efb98bd7-0977-44f4-bb5f-d6e30e520d1d <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_9cfed3d7-09b0-44ad-b9a8-da09373fc666 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#navigation> .
+_:_fb3cf127-de31-48f4-9714-18750fd1c97e <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_23c523f5-eb30-4bd6-a9ef-6f47f096c7a6 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_06eeb660-a4d8-4785-a6fe-ac490babfe02 <http://schema.org/name> "Politik Kills"@en-gb .
+_:_06eeb660-a4d8-4785-a6fe-ac490babfe02 <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_06eeb660-a4d8-4785-a6fe-ac490babfe02 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_06eeb660-a4d8-4785-a6fe-ac490babfe02 <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=nzq9b5> .
+_:_06eeb660-a4d8-4785-a6fe-ac490babfe02 <http://schema.org/byArtist> "Manu Chao"@en-gb .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284#mn-panel-artists> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#navigation> .
+_:_4bc80c85-467d-4549-9523-f6e55e3db599 <http://schema.org/name> "Merry Blues"@en-gb .
+_:_4bc80c85-467d-4549-9523-f6e55e3db599 <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_4bc80c85-467d-4549-9523-f6e55e3db599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_4bc80c85-467d-4549-9523-f6e55e3db599 <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=nz6mzr> .
+_:_4bc80c85-467d-4549-9523-f6e55e3db599 <http://schema.org/byArtist> "Manu Chao"@en-gb .
+_:_b9762f79-fd17-45e5-9061-a27260cdb3cc <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_0cd1af11-a924-42cf-a60e-dbbab99d254c <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_705a268e-928f-46d6-8fd8-02d1c0c960b8 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_2dc8a77b-f73c-4c39-9029-d23da4a73ac4 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_c640d3e9-7c7f-4f0e-8873-b1190922889b <http://schema.org/name> "Desaparecido"@en-gb .
+_:_c640d3e9-7c7f-4f0e-8873-b1190922889b <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_c640d3e9-7c7f-4f0e-8873-b1190922889b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_c640d3e9-7c7f-4f0e-8873-b1190922889b <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=n226fc> .
+_:_c640d3e9-7c7f-4f0e-8873-b1190922889b <http://schema.org/byArtist> "Manu Chao"@en-gb .
+_:_e8d02690-5851-4b81-a6fb-584dd0f48282 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284#orb-banner> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#banner> .
+_:_f2e0136e-9aab-405f-915e-ce008434fa5e <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_82513bc2-8f32-4266-8697-72b70daa6db6 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_8eba19d3-f145-470c-a098-a6d43358564b <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_9e297959-9b92-4df5-a004-71c9540e840b <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_6cbddf4f-2f15-4bfe-bcff-b5d38d107b66 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_70619783-4337-40cd-9cf3-088b97d9f148 <http://schema.org/name> "MR BOBBY"@en-gb .
+_:_70619783-4337-40cd-9cf3-088b97d9f148 <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_70619783-4337-40cd-9cf3-088b97d9f148 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_70619783-4337-40cd-9cf3-088b97d9f148 <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=nzjjgv> .
+_:_70619783-4337-40cd-9cf3-088b97d9f148 <http://schema.org/byArtist> "Manu Chao"@en-gb .
+_:_37067976-fb00-4ad9-aef6-8ff4d186c333 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_3f30913b-1038-4f6d-b6ad-df6db6e3f51d <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_b2f97166-a62a-4c0a-b1a4-6c433610d07b <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#menuitem> .
+_:_7708f6ef-3c6e-4281-a75b-ccb6cc764571 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#menubar> .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284#mn-panel-playlists> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#navigation> .
+_:_a7a43c85-c011-48c7-a69c-9ee723f0c81e <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#menuitem> .
+_:_1521de08-0e39-46cb-b3df-d99230d48ce3 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_c753da79-fa6a-416d-8999-0ce93a41a4ad <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_33db0f30-4e1d-4d14-b30f-53e807220511 <http://schema.org/name> "Le Rondezvous"@en-gb .
+_:_33db0f30-4e1d-4d14-b30f-53e807220511 <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_33db0f30-4e1d-4d14-b30f-53e807220511 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_33db0f30-4e1d-4d14-b30f-53e807220511 <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=n2zmhp> .
+_:_33db0f30-4e1d-4d14-b30f-53e807220511 <http://schema.org/byArtist> "Manu Chao"@en-gb .
+_:_e51e8965-6c0f-498b-a23c-5361b3e9e8e6 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_abb9d817-d435-4cec-bb0c-4d3b098b2551 <http://schema.org/sameAs> "https://musicbrainz.org/artist/7570a0dd-5a67-401b-b19a-261eee01a284"@en-gb .
+_:_abb9d817-d435-4cec-bb0c-4d3b098b2551 <http://schema.org/name> "Manu Chao"@en-gb .
+_:_abb9d817-d435-4cec-bb0c-4d3b098b2551 <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/960x540/p01bqh8f.jpg"@en-gb .
+_:_abb9d817-d435-4cec-bb0c-4d3b098b2551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicGroup> .
+_:_abb9d817-d435-4cec-bb0c-4d3b098b2551 <http://schema.org/foundingDate> "1961-06-21"@en-gb .
+_:_5e5da33e-40c5-4cc6-92d4-8d9650fee933 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#menubar> .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284#mn-top-bar-links> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#navigation> .
+_:_a3a4dc8f-11bf-4b4b-b082-f96d16ad0b8d <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#menubar> .
+_:_426235e3-922a-4248-9a3f-a758f97f0b6e <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_67cb0c91-5118-40c7-9da2-899004d846bd <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_21880e30-7a0c-445e-82a1-dc439f63cfb3 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_7620f33c-9db2-450d-9801-9c003daaed41 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_2a4781f3-45bc-4ea1-ad0d-b92df1c4d2c7 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_7457236a-c0de-4191-b3c2-9ab4cba82cc7 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_31fbfbd9-04d5-443d-99ca-2441701529ff <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284#mn-panel-audiovideo> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#navigation> .
+_:_a32ab46f-3be8-4f8e-a4b1-ae5294dcccc7 <http://schema.org/name> "Mala Fama"@en-gb .
+_:_a32ab46f-3be8-4f8e-a4b1-ae5294dcccc7 <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_a32ab46f-3be8-4f8e-a4b1-ae5294dcccc7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_a32ab46f-3be8-4f8e-a4b1-ae5294dcccc7 <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=n22x85> .
+_:_a32ab46f-3be8-4f8e-a4b1-ae5294dcccc7 <http://schema.org/byArtist> "Manu Chao"@en-gb .
+_:_d469d7f3-7989-4475-9758-c32412d94166 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_e3893f19-8374-484b-9841-907ae05ec1af <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_28986816-64bf-48f6-8a31-54173e3b4dfb <http://schema.org/name> "King Of The Mambo"@en-gb .
+_:_28986816-64bf-48f6-8a31-54173e3b4dfb <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_28986816-64bf-48f6-8a31-54173e3b4dfb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_28986816-64bf-48f6-8a31-54173e3b4dfb <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=nnwwfg> .
+_:_28986816-64bf-48f6-8a31-54173e3b4dfb <http://schema.org/byArtist> "Manu Chao"@en-gb .
+<http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284#mn-panel-tracks> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#navigation> .
+_:_584fddd7-a1f1-49fd-98bc-dc12041c184d <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#contentinfo> .
+_:_bb785730-7e38-4978-a473-ed219fd2f816 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_a62e62bb-c79c-4832-aa2f-b7e115cfa7c5 <http://schema.org/name> "Clandestino"@en-gb .
+_:_a62e62bb-c79c-4832-aa2f-b7e115cfa7c5 <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_a62e62bb-c79c-4832-aa2f-b7e115cfa7c5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_a62e62bb-c79c-4832-aa2f-b7e115cfa7c5 <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=nz9w44> .
+_:_a62e62bb-c79c-4832-aa2f-b7e115cfa7c5 <http://schema.org/byArtist> "Manu Chao"@en-gb .
+_:_41662477-8e60-4f52-bdb9-7401a9f96ee3 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_3ac5512b-3136-4dee-98b2-9c54af5984a8 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_bbcb7c17-b6c0-44d4-bf4f-07e3639b4919 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_cc78ee5e-12f8-4a04-a104-245ac5609ad9 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_2534a0ea-99c7-4ae8-9af2-e4feafaeee2f <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_efada2b2-29c5-4543-9736-568e6d21c179 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_c1de785a-78a3-43c2-83b3-1cb81b47e37b <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#menuitem> .
+_:_31cb32a9-5116-49fd-8391-9584f702ccfa <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#navigation> .
+_:_36b72306-2015-4db6-84d3-c49f5097fb03 <http://schema.org/name> "Mentira"@en-gb .
+_:_36b72306-2015-4db6-84d3-c49f5097fb03 <http://schema.org/image> "http://ichef.bbci.co.uk/images/ic/256x256/p01bqh8f.jpg"@en-gb .
+_:_36b72306-2015-4db6-84d3-c49f5097fb03 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:_36b72306-2015-4db6-84d3-c49f5097fb03 <http://schema.org/url> <http://www.bbc.co.uk/music/artists/7570a0dd-5a67-401b-b19a-261eee01a284?trackfocus=nzgbz4> .
+_:_36b72306-2015-4db6-84d3-c49f5097fb03 <http://schema.org/byArtist> "Manu Chao"@en-gb .
+_:_8a030f98-d1d2-431b-9bb7-cedb05c520c1 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#menubar> .
+_:_214f825a-d08c-4887-a43a-61d31dd31e94 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+_:_6a52ad41-cffb-4446-b23c-57987879bc26 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#presentation> .
+

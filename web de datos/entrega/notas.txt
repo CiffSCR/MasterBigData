@@ -1,0 +1,13 @@
+3-
+SELECT ?id ?v ?p
+WHERE {?id <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording>.
+?id ?v ?p
+}
+
+4-
+instancia1: dbo:abstract, dbo:birthDate, dbo:birthPlace, dbp:ocupation 
+instancia2: web no disponible
+instancia3: movie:actor, dc:date, movie:director, 
+instancia4:opmo:content, sioc:created_at, sioc:has_creator, opmopviajero:language
+
+batman es la web http://data.linkedmdb.org/page/film/2
