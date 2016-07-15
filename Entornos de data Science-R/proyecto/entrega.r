@@ -42,7 +42,8 @@ for(i in 1:dim(test)[2]){
 colnames(test_escala)<-colnames(diabetes)
 l_regr<-lm(Y~AGE+SEX+BMI+BP+S1+S2+S3+S4+S5+S6, data=training)
 
-Y_esperado<- predict(l_regr)
-error_cuad_medio<-(sum((training$Y-Y_esperado)^2))/dim(training)[1]
+Y_esperado_training<- predict(l_regr)
+error_cuad_medio_training<-(sum((training$Y-Y_esperado_training)^2))/dim(training)[1]
 
-
+Y_esperado_test<-predict(l_regr, test)
+error_cuad_medio_test<-(sum((test$Y-Y_esperado_test)^2))/dim(test)[1]
