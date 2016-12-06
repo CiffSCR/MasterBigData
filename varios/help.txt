@@ -1,0 +1,73 @@
+--Pista 1--
+Some methods/techniques require variable to be of some type. 
+For example, logistic regression require all attributes of variables to be numeric, text is not allowed.
+
+
+
+--Pista 2--
+Return the probability of being 1 (fraud), do not return the class 0 or 1. 
+The system has a rule to avoid dataset with all pred equals to 0s and 1's. 
+The exact rule is such that you are not allowed to send submissions with predicted values with less than 3 distinct values. 
+That is, your pred column should always have 3 or more distinct values. 
+Do you know what is a Decistion Tree? Surely you do, here is a code with DT in Python 
+https://dl.dropboxusercontent.com/u/28535341/CIFF_MBD_FA_s03-DecisionTree.ipynb
+
+
+--Pista 3--
+Although you willl be assessed on the KS2, use the GINI to check you are improving your model, 
+because it does not have the random factor of my KS2 implementation!!!! 
+To calculate KS2, your data must be sorted by pred, but what happen when two rows have the same pred values? 
+KS2 becomes a weak measure. You can see that problem in the example: 
+https://dl.dropboxusercontent.com/u/28535341/EXAMPLE_of_KS2_calculation_in_excel.xlsx; 
+Therefore, KS2 requires models with lots of predictions to be a good measure, on the other hand, GINI hides the problem of a bad model, 
+with low number of prediction, that is why I use KS2 to evaluate you. I want a good model.
+
+--Pista 4--
+Spread you predictions, this way you can get a more stable KS2!!! Models very few characteristic and few attributes lead to concentration around 
+some prediction values and in practice will be worse because it limits the use in a later stage. 
+If you have to choose a model with similar GINI or KS2 pick the one with more variables. 
+In order to calculate WoE (Weigth of Evidence) and IV (Information Value), have a look into this example code: 
+https://dl.dropboxusercontent.com/u/28535341/python2_MBD_FA_S02b_WoECalculation.py
+
+--Pista 5--
+Although the transformation phase comes first, it depends on the method you will use in model training phase. 
+Therefore, decide the statistic/machine learning method first and then transform the variables accordingly. 
+For example, logistic regression (LR) needs variable to have linear relationship with the target variable; 
+therefore, you need to use a transformation (binary, weight of evidence or interpolation for this problem any work similarly). 
+However, Decision Tree (DT) do not, so for DT you need to do very little transformations, just transforming text variable into numeric. 
+Also, transform all input categorial nominal into input categorial ordinal, you can do this by replacing each attribute value with its 
+calculated weight of evidence (yesterday hint tells you how to do that) or you can replace it by it ranking - 1, 2, 3, 4 ... 
+from the highest WoE to the lowest WoE, it is your call.
+
+--Pista 6--
+Regarding transformation, if you do not know much Python to implement fancy transformation via programming, do not worry. 
+If you need to do transformation alternatively to programming you can just open the CSVs and do it using EXCEL, remember to repeat the the same 
+transformation to both dev.csv and oot.csv. Curious about calculating Feauture Importance? 
+Check out this code: https://dl.dropboxusercontent.com/u/28535341/CIFF_MBD_FA_s03-feature_importance.ipynb
+
+--Pista 7--
+Forget GLM, you will not get anywhere in fraud detection with this method!!!! When changing to different method, 
+remember to play with the method paramter first, because default parameters sometime are terribles for fraud detection. 
+Changing GLM to other technique/methods in Python is normally very straight forward, after choosing a method try goggling how to do it! 
+Curious about how to calculate the PSI? 
+Check out this code: https://dl.dropboxusercontent.com/u/28535341/CIFF_MBD_FA_s03-population_stability_index.ipynb 
+
+--Pista 8--
+In this challenge, if you do not know what to do it may be the case that my next HINT will solve your question. 
+Keep sending a daily prediction to receive more hints. here goes a good one: Have you thought of trying to find the best model that 
+using as your objective function the geometric mean between the dev gini and the oot gini? I hope that that will get you a more stable model. 
+For knowing how to calculate it, check out: https://www.mathsisfun.com/numbers/geometric-mean.html
+
+--Pista 9--
+What is more important ROBUSTNESS or PREDICTION? Depending on the problem, the answer is robustness; logistic regression (LR) could be a good option. 
+For some datasets, the answer is prediction power; decision tree (DT) could be a good option. Fraud is a very hard problem, 
+so it needs prediction power (some overfitting is necessary), but in this sample data customer are changing so robustness is also a key aspect. 
+Search for techniques that could blend the predicting power of a DT and the robustness of a LR.
+
+--Pista 10--
+Regarding transformation. Whatever you do in the dev sample, you should repeat in the oot. That may not be the case when you notice 
+that the oot is different from the dev sample (like in our case)! So you may decide to apply a 'transformation' that can make that difference 
+smaller. For example, var 65 goes from 21 to 63 on dev and 18 to 81 on oot, 18-20 and 64-81 are called unknown value, what to do with them?
+
+
+
